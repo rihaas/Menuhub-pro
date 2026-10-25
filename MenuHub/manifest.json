@@ -1,0 +1,25 @@
+{
+  "name": "BackBenchers Cafe — Kollengode Menu",
+  "short_name": "BackBenchers",
+  "description": "Digital menu & WhatsApp ordering for BackBenchers Cafe, Kollengode, Palakkad, Kerala",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf8f0",
+  "theme_color": "#2b1d12",
+  "orientation": "portrait-primary",
+  "categories": ["food"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

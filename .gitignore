@@ -1,0 +1,14 @@
+# Firebase
+.firebase/
+.firebaserc.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+MenuHub/*.bak
+
+# Editor
+.vscode/
+*.swp
